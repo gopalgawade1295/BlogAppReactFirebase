@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: left;
+  padding: 20px;
 }
 
 .App-logo {
